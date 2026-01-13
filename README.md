@@ -1,4 +1,4 @@
-![GitHub Banner](./github-banner.png)
+![GitHub Banner](./github_banner.png)
 
 <h1 align="center">Hi 👋, I'm Mohan Pramanik</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
