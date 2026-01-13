@@ -15,9 +15,9 @@
 ---
 
 ## 🛠️ Skills
-- **Languages:** C, C++, Java, Python  
+- **Languages:** C, C++, Python  
 - **Web Technologies:** HTML, CSS, JavaScript  
-- **Core Concepts:** DSA, OOP, DBMS  
+- **Core Concepts:** DSA, OOP  
 - **Tools:** Git, GitHub, VS Code  
 
 ---
