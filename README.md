@@ -7,9 +7,10 @@
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech IT student at **Techno Main Salt Lake**
-- 💡 Passionate about **Coding, DSA & Web Development**
+- 💡 Passionate about **Coding, Problem-Solving ,DSA & Web Development**
 - 💻 Interested in **Software Engineering & Backend Development**
 - 🚀 Continuously learning and building projects
+- 🚀 Always learning new technologies  
 
 ---
 
