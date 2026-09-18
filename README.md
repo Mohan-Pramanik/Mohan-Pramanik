@@ -1,54 +1,32 @@
-```{=html}
 <!-- ===================== HERO ===================== -->
-```
-```{=html}
 <p align="center">
-```
-`<img src="./github-banner.png" width="100%" alt="Mohan Pramanik GitHub Banner"/>`{=html}
-```{=html}
+`<img src="./github-banner.png" width="100%" alt="Mohan Pramanik GitHub Banner"/>`
 </p>
-```
-```{=html}
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;DSA+%7C+Web+Development+%7C+Backend;Building+Ideas+into+Impactful+Solutions;Always+Learning.+Always+Building." alt="Typing Animation"/>`{=html}
-```{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;DSA+%7C+Web+Development+%7C+Backend;Building+Ideas+into+Impactful+Solutions;Always+Learning.+Always+Building." alt="Typing Animation"/>`
 </p>
-```
-```{=html}
 <p align="center">
-```
-`<a href="https://github.com/Mohan-Pramanik">`{=html}
-`<img src="https://img.shields.io/github/followers/Mohan-Pramanik?label=Followers&style=for-the-badge&color=0A66C2&logo=github"/>`{=html}
-`</a>`{=html}
-`<a href="https://github.com/Mohan-Pramanik?tab=repositories">`{=html}
-`<img src="https://img.shields.io/github/stars/Mohan-Pramanik?style=for-the-badge&color=00C8FF&logo=github"/>`{=html}
-`</a>`{=html}
-`<a href="https://linkedin.com/in/MohanPramanik143">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>`{=html}
-`</a>`{=html}
-```{=html}
+`<a href="https://github.com/Mohan-Pramanik">`
+`<img src="https://img.shields.io/github/followers/Mohan-Pramanik?label=Followers&style=for-the-badge&color=0A66C2&logo=github"/>`
+`</a>`
+`<a href="https://github.com/Mohan-Pramanik?tab=repositories">`
+`<img src="https://img.shields.io/github/stars/Mohan-Pramanik?style=for-the-badge&color=00C8FF&logo=github"/>`
+`</a>`
+`<a href="https://linkedin.com/in/MohanPramanik143">`
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>`
+`</a>`
 </p>
-```
 
 ------------------------------------------------------------------------
 
 # 👋 Hi, I'm Mohan Pramanik
 
-```{=html}
 <h3 align="center">
-```
 💻 Aspiring Software Engineer • 🧠 Problem Solver • 🚀 Builder
-```{=html}
 </h3>
-```
-```{=html}
 <p align="center">
-```
-`<i>`{=html}"Turning ideas into impactful solutions."`</i>`{=html}
-```{=html}
+`<i>`"Turning ideas into impactful solutions."`</i>`
 </p>
-```
 
 ------------------------------------------------------------------------
 
@@ -101,17 +79,13 @@ public:
 
 # ⚡ My Developer Mindset
 
-```{=html}
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/BUILD-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`<img src="https://img.shields.io/badge/LEARN-00C8FF?style=for-the-badge&logo=bookstack&logoColor=white"/>`{=html}
-`<img src="https://img.shields.io/badge/SOLVE-0077B5?style=for-the-badge&logo=leetcode&logoColor=white"/>`{=html}
-`<img src="https://img.shields.io/badge/GROW-00B8D9?style=for-the-badge&logo=rocket&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/BUILD-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/LEARN-00C8FF?style=for-the-badge&logo=bookstack&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/SOLVE-0077B5?style=for-the-badge&logo=leetcode&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/GROW-00B8D9?style=for-the-badge&logo=rocket&logoColor=white"/>`
 
-```{=html}
 </p>
-```
 ``` text
                     ┌─────────────────────┐
                     │       IDEA 💡       │
@@ -144,44 +118,28 @@ public:
 
 ### 👨‍💻 Programming Languages
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />`{=html}
-```{=html}
+`<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />`
 </p>
-```
 ### 🌐 Web Development
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />`{=html}
-```{=html}
+`<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />`
 </p>
-```
 ### 🧠 Computer Science
 
-```{=html}
 <p>
-```
-`<img src="https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Algorithms-0077B5?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/OOP-00A8E8?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Problem%20Solving-00C8FF?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/System%20Design-005B96?style=for-the-badge"/>`{=html}
-```{=html}
+`<img src="https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge"/>`
+`<img src="https://img.shields.io/badge/Algorithms-0077B5?style=for-the-badge"/>`
+`<img src="https://img.shields.io/badge/OOP-00A8E8?style=for-the-badge"/>`
+`<img src="https://img.shields.io/badge/Problem%20Solving-00C8FF?style=for-the-badge"/>`
+`<img src="https://img.shields.io/badge/System%20Design-005B96?style=for-the-badge"/>`
 </p>
-```
 ### ☁️ Tools & Platforms
 
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,aws,vercel,netlify" />`{=html}
-```{=html}
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,aws,vercel,netlify" />`
 </p>
-```
 
 ------------------------------------------------------------------------
 
@@ -252,70 +210,50 @@ public:
 
 # 📊 GitHub Analytics
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=Mohan-Pramanik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>`{=html}
+`<img src="https://github-readme-stats.vercel.app/api?username=Mohan-Pramanik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>`
 
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Pramanik&layout=compact&theme=tokyonight&hide_border=true" height="180"/>`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Pramanik&layout=compact&theme=tokyonight&hide_border=true" height="180"/>`
 
-```{=html}
 </p>
-```
 
 ------------------------------------------------------------------------
 
 # 🔥 Contribution Streak
 
-```{=html}
 <p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=Mohan-Pramanik&theme=tokyonight&hide_border=true&border_radius=10"/>`{=html}
+`<img src="https://streak-stats.demolab.com?user=Mohan-Pramanik&theme=tokyonight&hide_border=true&border_radius=10"/>`
 
-```{=html}
 </p>
-```
 
 ------------------------------------------------------------------------
 
 # 📈 Contribution Activity
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohan-Pramanik&theme=tokyo-night&hide_border=true&area=true"/>`{=html}
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohan-Pramanik&theme=tokyo-night&hide_border=true&area=true"/>`
 
-```{=html}
 </p>
-```
 
 ------------------------------------------------------------------------
 
 # 🐍 My Contribution Snake
 
-```{=html}
 <p align="center">
-```
-`<img src="https://raw.githubusercontent.com/Mohan-Pramanik/Mohan-Pramanik/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>`{=html}
+`<img src="https://raw.githubusercontent.com/Mohan-Pramanik/Mohan-Pramanik/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>`
 
-```{=html}
 </p>
-```
 
 ------------------------------------------------------------------------
 
 # 🧠 DSA Journey
 
-```{=html}
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/DSA-STRIVING-00C8FF?style=for-the-badge&logo=leetcode&logoColor=white"/>`{=html}
-`<img src="https://img.shields.io/badge/LEETCODE-50%2B%20DAY%20BADGE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>`{=html}
-`<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-DAILY-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/DSA-STRIVING-00C8FF?style=for-the-badge&logo=leetcode&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/LEETCODE-50%2B%20DAY%20BADGE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>`
+`<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-DAILY-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white"/>`
 
-```{=html}
 </p>
-```
 ### 📚 Currently Practicing
 
 ``` text
@@ -374,39 +312,33 @@ Advanced Algorithms
 
 # 📫 Let's Connect
 
-```{=html}
 <p align="center">
-```
-`<a href="mailto:mohanpramanik6294113716@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-mohanpramanik6294113716%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
-`</a>`{=html}
+`<a href="mailto:mohanpramanik6294113716@gmail.com">`
+`<img src="https://img.shields.io/badge/Email-mohanpramanik6294113716%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>`
+`</a>`
 
-`<a href="https://linkedin.com/in/MohanPramanik143">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Mohan%20Pramanik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
-`</a>`{=html}
+`<a href="https://linkedin.com/in/MohanPramanik143">`
+`<img src="https://img.shields.io/badge/LinkedIn-Mohan%20Pramanik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`
+`</a>`
 
-`<a href="https://github.com/Mohan-Pramanik">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Mohan--Pramanik-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html}
+`<a href="https://github.com/Mohan-Pramanik">`
+`<img src="https://img.shields.io/badge/GitHub-Mohan--Pramanik-181717?style=for-the-badge&logo=github&logoColor=white"/>`
+`</a>`
 
-```{=html}
 </p>
-```
 
 ------------------------------------------------------------------------
 
 # 💭 Developer Philosophy
 
-```{=html}
 <p align="center">
-```
 ### `Code. Learn. Solve. Repeat.`
 
-`<br>`{=html}
+`<br>`
 
 **"Don't just write code. Build something that matters."**
 
-`<br>`{=html}
+`<br>`
 
 `while (learning) {`
 
@@ -420,26 +352,16 @@ Advanced Algorithms
 
 `}`
 
-```{=html}
 </p>
-```
 
 ------------------------------------------------------------------------
 
-```{=html}
 <p align="center">
-```
 ### 🚀 Turning Ideas Into Impactful Solutions
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:00C8FF,100:001B44&height=100&section=footer"/>`{=html}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:00C8FF,100:001B44&height=100&section=footer"/>`
 
-```{=html}
 </p>
-```
-```{=html}
 <p align="center">
-```
 ⭐ Thanks for visiting my profile!
-```{=html}
 </p>
-```
