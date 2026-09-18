@@ -163,10 +163,7 @@
   <img src="https://img.shields.io/badge/FOUNDATIONS-Data%20Structures%20%26%20Algorithms%20%E2%80%A2%20OOP-0B1F3A?style=flat-square&labelColor=0B1F3A&color=00C8FF" alt="Foundations: Data Structures & Algorithms, OOP" />
 </p>
 
-<!-- [3.2 Animated learning-focus bars (assets/focus.svg)] — CHANGE: points to the redesigned svg (same filename/path, so this <img> tag itself doesn't need to change once you replace the file in your repo) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mohan-Pramanik/Mohan-Pramanik/main/assets/focus.svg" width="760" alt="Current learning focus: DSA, Backend, Full Stack, and AI/ML. A visual metaphor, not skill percentages." />
-</p>
+
 
 
 
@@ -235,12 +232,6 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🌦️ Smart Weather</h3>
-      <p>Modern weather application.</p>
-      <p><img src="https://img.shields.io/badge/React-0B1F3A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Weather%20API-0B1F3A?style=flat-square&logo=cloudscale&logoColor=00C8FF" alt="Weather API" /> <img src="https://img.shields.io/badge/Netlify-0B1F3A?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Netlify" /></p>
-      <p>Weather search • Real-time weather • Responsive UI<br /><b>Status</b> — Deployed on Netlify</p>
-    </td>
-    <td width="50%" valign="top">
       <h3>💱 Currency Converter</h3>
       <p>Currency conversion web application.</p>
       <p><img src="https://img.shields.io/badge/HTML-0B1F3A?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-0B1F3A?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-0B1F3A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></p>
@@ -263,22 +254,9 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001B44,50:0A3A7A,100:001B44&height=56&text=GITHUB%20ANALYTICS&fontSize=22&fontColor=00C8FF&fontAlignY=50&stroke=00C8FF&strokeWidth=1&animation=fadeIn" width="100%" alt="GITHUB ANALYTICS" />
 </p>
 
-<!-- [5.1 Stats card and top languages card, side by side] — unchanged -->
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Mohan-Pramanik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0B1F3A&title_color=00C8FF&icon_color=00C8FF&text_color=FFFFFF&border_radius=10" width="100%" alt="GitHub Stats" /></td>
-    <td width="50%" align="center" valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-Pramanik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1F3A&title_color=00C8FF&text_color=FFFFFF&border_radius=10" width="100%" alt="Top Languages" /></td>
-  </tr>
-</table>
-
 <!-- [5.2 Contribution streak card] — unchanged -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mohan-Pramanik&theme=tokyonight&hide_border=true&border_radius=10&background=0B1F3A&ring=00C8FF&fire=00C8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C8FF&sideLabels=8BE9FD&dates=8BE9FD" width="100%" alt="GitHub Contribution Streak" />
-</p>
-
-<!-- [5.3 Contribution activity graph] — unchanged -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohan-Pramanik&theme=tokyo-night&hide_border=true&area=true&bg_color=0B1F3A&color=00C8FF&line=00C8FF&point=FFFFFF&area_color=00C8FF&radius=10" width="100%" alt="GitHub Contribution Activity Graph" />
 </p>
 
 <!-- [5.4 Contribution snake (needs .github/workflows/snake.yml and the output branch)] — unchanged -->
