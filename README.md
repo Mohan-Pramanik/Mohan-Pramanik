@@ -1,65 +1,46 @@
-<!-- ======================================================================
-     README MAP  (Mohan Pramanik profile) — v2 redesign
-     Each section below starts with a big banner comment. Blocks inside a
-     section are numbered like [2.1], [2.2] so you can find the right code.
-     Every block also carries a short "CHANGE:" note explaining what was
-     done to it in this redesign pass, so you can see at a glance what
-     changed without diffing the whole file.
-
-       1  HERO              banner, wave header, typing text, buttons, counters
-       2  ABOUT ME          intro paragraph, facts table, working style
-       3  TECH STACK        redesigned category cards + animated focus bars
-       4  FEATURED PROJECTS CivicPulse, Smart Weather, Currency Converter
-       5  GITHUB ANALYTICS  stats, languages, streak, activity graph, snake
-       6  ACHIEVEMENTS      certifications and badges
-       7  LET'S CONNECT     contact buttons, closing line, footer wave
-
-     REMOVED in this pass (see notes below): the old "DSA JOURNEY" section
-     and the old "2026 GOALS" section. Everything is renumbered 1→7.
-
-     To hide something: wrap it in a comment. To show a hidden block again:
-     delete its HIDDEN line and the closing arrow line after it.
-     ====================================================================== -->
+<!-- ============================================================
+     Mohan Pramanik — GitHub Profile README
+     Sections: 1 Hero · 2 About Me · 3 Tech Stack · 4 Featured Projects
+               5 GitHub Analytics · 6 Achievements · 7 Let's Connect
+     ============================================================ -->
 
 
-<!-- ######################################################################
-     SECTION 1 OF 7  |  HERO
-     Shows: profile banner, gradient wave header, typing text, contact buttons, counters.
-     CHANGE: switched the wave header to a richer 3-stop gradient + a
-     "twinkling" animation (was a flat fadeIn) for a more premium, less
-     static first impression. Typing line rewritten to drop the DSA-heavy
-     phrasing now that DSA Journey is no longer its own section below.
-     ###################################################################### -->
-
-<!-- [1.1 Profile banner image (github-banner.png in repo root)] — unchanged, still your custom banner -->
+<!-- ================= 1. HERO ================= -->
+<!-- banner image -->
 <p align="center">
   <img src="./github-banner.png" width="100%" alt="Mohan Pramanik - Aspiring Software Engineer" />
 </p>
+<!-- two GIFs side by side, responsive: each column is 50% width so they scale together on any screen -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Mohan-Pramanik/Mohan-Pramanik/main/assets/code.gif" width="100%" alt="Animated illustration of a developer at a desk with two monitors — one running code, the other an analytics dashboard" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Animated coding illustration" />
+    </td>
+  </tr>
+</table>
 
-<!-- [1.2 Gradient wave header with tagline] — CHANGE: 3-stop gradient (deep navy → blue → violet), twinkling animation, taller/bolder type -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B1F,35:0A66C2,70:00C8FF,100:7B2FFF&height=200&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20SOLVE%20%E2%80%A2%20GROW&fontSize=36&fontColor=FFFFFF&fontAlignY=36&desc=Turning%20ideas%20into%20impactful%20solutions.&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="Build, Learn, Solve, Grow. Turning ideas into impactful solutions." />
-</p>
-
-<!-- [1.3 Typing animation (role and focus lines)] — CHANGE: rewritten lines, no longer leads with DSA; leads with the engineering identity instead -->
+<!-- typing role lines -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=00C8FF&center=true&vCenter=true&width=760&height=50&lines=Aspiring+Software+Engineer;Full-Stack+Development+%E2%80%A2+Backend+Systems;Problem+Solver+%E2%80%A2+Builder+%E2%80%A2+Learner;Always+Learning+%E2%80%A2+Always+Building" alt="Aspiring Software Engineer | Full-Stack Development, Backend Systems | Always Learning, Always Building" />
 </p>
 
-<!-- [1.4 Main buttons: LinkedIn, Email, CivicPulse] — unchanged -->
+<!-- LinkedIn / Email / live project buttons -->
 <p align="center">
   <a href="https://linkedin.com/in/MohanPramanik143"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohanpramanik6294113716@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-00A8E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://civicpulse-v2.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20PROJECT-CIVICPULSE-0B1F3A?style=for-the-badge&logo=vercel&logoColor=white" alt="CivicPulse live project" /></a>
 </p>
 
-<!-- [1.5 Counters: followers and profile views] — unchanged -->
+<!-- follower / profile-view counters -->
 <p align="center">
   <a href="https://github.com/Mohan-Pramanik?tab=followers"><img src="https://img.shields.io/github/followers/Mohan-Pramanik?label=FOLLOWERS&style=flat-square&logo=github&logoColor=white&labelColor=0B1F3A&color=00C8FF" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=Mohan-Pramanik&style=flat-square&label=PROFILE+VIEWS&color=00C8FF&labelColor=0B1F3A" alt="Profile views" />
 </p>
 
-<!-- [1.6 HIDDEN] Terminal card (assets/terminal.svg). Delete this line and the closing arrow line below to show it again. Untouched in this pass.
+<!-- Hidden: terminal card (assets/terminal.svg). Remove this comment wrapper to show it again.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohan-Pramanik/Mohan-Pramanik/main/assets/terminal.svg" width="760" alt="Terminal: Mohan Pramanik, Aspiring Software Engineer. Focus: Backend, Web, AI. Status: Learning and Building." />
 </p>
@@ -67,24 +48,17 @@
 
 
 
-<!-- ######################################################################
-     SECTION 2 OF 7  |  ABOUT ME
-     Shows: title bar, intro paragraph, facts table, working style line.
-     CHANGE: content kept as-is (it was already accurate and clean) — only
-     the DSA emphasis in the intro line was softened slightly since DSA no
-     longer has its own dedicated section further down the page.
-     ###################################################################### -->
-<!-- [2.0 Section title bar] — unchanged style, kept consistent with the rest of the page -->
+<!-- ================= 2. ABOUT ME ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001B44,50:0A3A7A,100:001B44&height=56&text=ABOUT%20ME&fontSize=22&fontColor=00C8FF&fontAlignY=50&stroke=00C8FF&strokeWidth=1&animation=fadeIn" width="100%" alt="ABOUT ME" />
 </p>
 
-<!-- [2.1 Intro paragraph] — CHANGE: trimmed the DSA-first framing to a more balanced full-stack + problem-solving framing -->
+<!-- intro paragraph -->
 <p align="center">
   I'm a <b>B.Tech Information Technology</b> student at <b>Techno Main Salt Lake</b> who enjoys turning ideas into working software. I'm building full-stack <b>web applications</b> with a strong <b>backend</b> focus, sharpening my <b>problem-solving</b> fundamentals, and exploring <b>artificial intelligence</b>. I learn best by shipping <b>real-world projects</b> and improving them one iteration at a time.
 </p>
 
-<!-- [2.2 Facts table: education, interests, mission] — unchanged -->
+<!-- education / interests / mission -->
 <table align="center">
   <tr>
     <td><b>🎓 Education</b></td>
@@ -100,35 +74,19 @@
   </tr>
 </table>
 
-<!-- [2.3 Working style line: Idea to Impact] — unchanged -->
+<!-- working style -->
 <p align="center">
   <sub>💡 <b>Idea</b> → 📚 <b>Learn</b> → 💻 <b>Build</b> → 🧪 <b>Test</b> → 🧠 <b>Solve</b> → 🚀 <b>Impact</b></sub>
 </p>
 
 
 
-<!-- ######################################################################
-     SECTION 3 OF 7  |  TECH STACK
-     Shows: title bar, category cards with icon rows, animated learning-focus bars.
-     CHANGE (the main ask for this pass):
-       • Rebuilt as individual rounded "cards" per category instead of a
-         plain table, each with a small colored category badge, so the
-         section reads as a proper stack overview instead of a spreadsheet.
-       • Removed Firebase entirely (and DSA/OOP folded into a lighter,
-         non-repetitive line) — the stack list is now leaner and only
-         lists things actively used across your shipped projects.
-       • assets/focus.svg replaced with a new version: smoother eased
-         animation (spline easing instead of linear), staggered bar
-         start times so the bars no longer move in lockstep, a soft glow
-         filter on the bars/markers, and a subtle animated backdrop —
-         same size/embed, drop-in replacement.
-     ###################################################################### -->
-<!-- [3.0 Section title bar] — unchanged style -->
+<!-- ================= 3. TECH STACK ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001B44,50:0A3A7A,100:001B44&height=56&text=TECH%20STACK&fontSize=22&fontColor=00C8FF&fontAlignY=50&stroke=00C8FF&strokeWidth=1&animation=fadeIn" width="100%" alt="TECH STACK" />
 </p>
 
-<!-- [3.1 Stack cards by category] — CHANGE: replaced the old 6-row plain table with 5 centered "cards" (small label badge + icon row); Firebase removed, DB row now shows MongoDB only -->
+<!-- stack cards: languages / frontend / backend / database / tools -->
 <table align="center" width="100%">
   <tr>
     <td align="center" width="20%">
@@ -156,7 +114,7 @@
 
 <br />
 
-<!-- [3.1b Deployment + fundamentals strip] — CHANGE: merged the old separate Deployment and CS Fundamentals rows into one compact strip beneath the card grid, so the section doesn't run long -->
+<!-- deployment + foundations -->
 <p align="center">
   <img src="https://img.shields.io/badge/DEPLOY-AWS%20%E2%80%A2%20Vercel%20%E2%80%A2%20Netlify-0B1F3A?style=flat-square&labelColor=0B1F3A&color=00C8FF" alt="Deployment: AWS, Vercel, Netlify" />
   &nbsp;
@@ -165,23 +123,12 @@
 
 
 
-
-
-<!-- ######################################################################
-     SECTION 4 OF 7  |  FEATURED PROJECTS
-     Shows: title bar, CivicPulse card, Smart Weather and Currency Converter cards.
-     CHANGE: Smart Weather's tech badges no longer show Firebase (it used
-     to list Firebase for auth) — swapped for a generic "Weather API"
-     badge so the project card stays accurate without referencing a
-     skill that's been dropped from the Tech Stack section. Everything
-     else in this section is unchanged.
-     ###################################################################### -->
-<!-- [4.0 Section title bar] — unchanged -->
+<!-- ================= 4. FEATURED PROJECTS ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001B44,50:0A3A7A,100:001B44&height=56&text=FEATURED%20PROJECTS&fontSize=22&fontColor=00C8FF&fontAlignY=50&stroke=00C8FF&strokeWidth=1&animation=fadeIn" width="100%" alt="FEATURED PROJECTS" />
 </p>
 
-<!-- [4.1 Project card: CivicPulse (live demo button, tech badges, features)] — unchanged -->
+<!-- project: CivicPulse -->
 <table width="100%">
   <tr>
     <td>
@@ -203,7 +150,7 @@
   </tr>
 </table>
 
-<!-- [4.2 HIDDEN] CivicPulse architecture diagram dropdown. Delete this line and the closing arrow line below to show it again. Untouched in this pass.
+<!-- Hidden: CivicPulse architecture diagram. Remove this comment wrapper to show it again.
 <details>
 <summary><b>🏗️ CivicPulse architecture</b></summary>
 
@@ -228,10 +175,10 @@
 </details>
 -->
 
-<!-- [4.3 Project cards side by side: Smart Weather and Currency Converter] — CHANGE: Smart Weather badge row — Firebase badge removed, replaced with a Weather API badge -->
+<!-- project: Currency Converter -->
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3>💱 Currency Converter</h3>
       <p>Currency conversion web application.</p>
       <p><img src="https://img.shields.io/badge/HTML-0B1F3A?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-0B1F3A?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-0B1F3A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></p>
@@ -242,24 +189,17 @@
 
 
 
-<!-- ######################################################################
-     SECTION 5 OF 7  |  GITHUB ANALYTICS
-     (was Section 6 — renumbered after removing DSA Journey)
-     Shows: title bar, live GitHub stats cards, activity graph, contribution snake.
-     CHANGE: content/theme unchanged — this section was already dynamic
-     and effective, so it was left as-is aside from renumbering.
-     ###################################################################### -->
-<!-- [5.0 Section title bar] — unchanged -->
+<!-- ================= 5. GITHUB ANALYTICS ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001B44,50:0A3A7A,100:001B44&height=56&text=GITHUB%20ANALYTICS&fontSize=22&fontColor=00C8FF&fontAlignY=50&stroke=00C8FF&strokeWidth=1&animation=fadeIn" width="100%" alt="GITHUB ANALYTICS" />
 </p>
 
-<!-- [5.2 Contribution streak card] — unchanged -->
+<!-- contribution streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mohan-Pramanik&theme=tokyonight&hide_border=true&border_radius=10&background=0B1F3A&ring=00C8FF&fire=00C8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00C8FF&sideLabels=8BE9FD&dates=8BE9FD" width="100%" alt="GitHub Contribution Streak" />
 </p>
 
-<!-- [5.4 Contribution snake (needs .github/workflows/snake.yml and the output branch)] — unchanged -->
+<!-- contribution snake (needs .github/workflows/snake.yml + output branch) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohan-Pramanik/Mohan-Pramanik/output/github-contribution-grid-snake.svg" />
@@ -269,61 +209,43 @@
 
 
 
-<!-- ######################################################################
-     SECTION 6 OF 7  |  ACHIEVEMENTS
-     (was Section 7 — renumbered)
-     Shows: title bar, certification and badge row.
-     CHANGE: content unchanged, only renumbered.
-     ###################################################################### -->
-<!-- [6.0 Section title bar] — unchanged -->
+<!-- ================= 6. ACHIEVEMENTS ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001B44,50:0A3A7A,100:001B44&height=56&text=ACHIEVEMENTS&fontSize=22&fontColor=00C8FF&fontAlignY=50&stroke=00C8FF&strokeWidth=1&animation=fadeIn" width="100%" alt="ACHIEVEMENTS" />
 </p>
 
-<!-- [6.1 Achievement badges] — unchanged -->
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20ACADEMY-CLOUD%20FOUNDATIONS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0B1F3A" alt="AWS Academy Graduate - Cloud Foundations" />
   <img src="https://img.shields.io/badge/GOOGLE%20CLOUD-GEN%20AI%20ACADEMY%202.0-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0B1F3A" alt="Google Cloud Gen AI Academy 2.0" />
   <img src="https://img.shields.io/badge/SKILLS%20BOOST-35%2B%20CHALLENGE%20LABS-00C8FF?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0B1F3A" alt="35+ Google Cloud Skills Boost Challenge Labs" />
   <img src="https://img.shields.io/badge/LEETCODE-50%20DAYS%20BADGE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0B1F3A" alt="LeetCode 50 Days Badge" />
-  <img src="https://img.shields.io/badge/BUILT-SMART%20WEATHER%20APP-0A66C2?style=for-the-badge&logoColor=white&labelColor=0B1F3A" alt="Smart Weather Web App" />
   <img src="https://img.shields.io/badge/BUILT-CIVICPULSE-0A66C2?style=for-the-badge&logoColor=white&labelColor=0B1F3A" alt="CivicPulse" />
 </p>
 
 
 
-<!-- ######################################################################
-     SECTION 7 OF 7  |  LET'S CONNECT AND FOOTER
-     (was Section 9 — renumbered; the "2026 GOALS" section that used to
-     sit right before this one has been fully removed)
-     Shows: title bar, contact buttons, email, closing typing line, philosophy line, footer wave.
-     CHANGE: footer wave animation switched from fadeIn to twinkling to
-     bookend the page with the same livelier animation used in the hero.
-     ###################################################################### -->
-<!-- [7.0 Section title bar] — unchanged -->
+<!-- ================= 7. LET'S CONNECT ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:001B44,50:0A3A7A,100:001B44&height=56&text=LET%27S%20CONNECT&fontSize=22&fontColor=00C8FF&fontAlignY=50&stroke=00C8FF&strokeWidth=1&animation=fadeIn" width="100%" alt="LET'S CONNECT" />
 </p>
 
-<!-- [7.1 Contact buttons: GitHub, LinkedIn, Email] — unchanged -->
+<!-- contact buttons -->
 <p align="center">
   <a href="https://github.com/Mohan-Pramanik"><img src="https://img.shields.io/badge/GitHub-Mohan--Pramanik-0B1F3A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/MohanPramanik143"><img src="https://img.shields.io/badge/LinkedIn-Mohan%20Pramanik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohanpramanik6294113716@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-00A8E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<!-- [7.2 Email address as text] — unchanged -->
 <p align="center"><sub>mohanpramanik6294113716@gmail.com</sub></p>
 
-<!-- [7.3 Closing typing line: Code. Learn. Solve. Repeat.] — unchanged -->
+<!-- closing typing line -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=00C8FF&center=true&vCenter=true&width=500&height=40&lines=Code.;Learn.;Solve.;Repeat." alt="Code. Learn. Solve. Repeat." />
 </p>
 
-<!-- [7.4 Philosophy line] — unchanged -->
 <p align="center"><i>Build better. Solve smarter. Grow continuously.</i></p>
 
-<!-- [7.5 Footer wave] — CHANGE: same 3-stop gradient as the hero + twinkling animation instead of fadeIn, so the top and bottom of the page visually match -->
+<!-- footer wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B1F,35:0A66C2,70:00C8FF,100:7B2FFF&height=130&section=footer&text=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Collaborate%20%E2%80%A2%20Make%20an%20Impact&fontSize=18&fontColor=FFFFFF&fontAlignY=68&animation=twinkling" width="100%" alt="Code, Create, Collaborate, Make an Impact" />
 </p>
